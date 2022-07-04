@@ -1,3 +1,9 @@
 .nav-link {
   font-size: large;
 }
+
+#pagetitle {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: x-large;
+}
